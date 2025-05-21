@@ -1,0 +1,200 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3161908922",
+    "Type": "User",
+    "GUID": "{06AE0E3A-78F0-4C17-AE55-64EBA9B033F0}",
+    "Language": "SFX",
+    "Hash": "{E81CC606-859C-3328-5437-5F1F76024A00}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Main",
+    "ShortName": "Main",
+    "Path": "Main.bnk",
+    "Media": [
+     {
+      "Id": "8452145",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "OBJ_Campfire_Sizzle_03.wav",
+      "CachePath": "4B/{4B8A6624-3DCC-4181-C542-08AC2A5DFA6D}.wem"
+     },
+     {
+      "Id": "31428144",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "OBJ_Campfire_Crack_05.wav",
+      "CachePath": "C3/{C3A834A4-727F-E56E-B993-F5D942AFE0D4}.wem"
+     },
+     {
+      "Id": "218165833",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "OBJ_Campfire_Crack_07.wav",
+      "CachePath": "11/{1176D396-93BE-45EF-A969-5ABA246DF5AB}.wem"
+     },
+     {
+      "Id": "305473176",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "OBJ_Campfire_Sizzle_06.wav",
+      "CachePath": "4F/{4F7112C5-7D72-7610-E470-B9DE0B929836}.wem"
+     },
+     {
+      "Id": "352087758",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "OBJ_Campfire_Crack_01.wav",
+      "CachePath": "BE/{BE1DFB89-A5D2-AE14-33CE-AB6534A2D4B9}.wem"
+     },
+     {
+      "Id": "508739589",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "OBJ_Campfire_Crack_04.wav",
+      "CachePath": "8F/{8F279E8A-E49B-397A-E3F9-DDBAC4879C06}.wem"
+     },
+     {
+      "Id": "649495772",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "OBJ_Campfire_Sizzle_07.wav",
+      "CachePath": "C0/{C000B5F0-5DD9-BFEA-2924-5F851BD0653C}.wem"
+     },
+     {
+      "Id": "791273761",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "OBJ_Campfire_Sizzle_04.wav",
+      "CachePath": "C3/{C3955E87-239A-C6C6-5CB1-C36A2077EFB9}.wem"
+     },
+     {
+      "Id": "836192539",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "OBJ_Campfire_Burn_Loop.wav",
+      "CachePath": "4B/{4B0CB4F8-49FD-3E05-A918-0E36BBE15399}.wem"
+     },
+     {
+      "Id": "906446551",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "OBJ_Campfire_Crack_02.wav",
+      "CachePath": "AC/{ACA8D0E3-CFF9-924F-1DD8-B145370F9801}.wem"
+     },
+     {
+      "Id": "913671426",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "OBJ_Campfire_Sizzle_05.wav",
+      "CachePath": "98/{9858C932-AEB5-652B-8A67-DBCE5DAB1074}.wem"
+     },
+     {
+      "Id": "951040964",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "OBJ_Campfire_Crack_03.wav",
+      "CachePath": "A0/{A04EDBB0-15D8-984F-9601-4CB6D8C7BE1C}.wem"
+     },
+     {
+      "Id": "986340892",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "OBJ_Campfire_Sizzle_01.wav",
+      "CachePath": "1C/{1C3FCA0F-DEEA-0724-6C7C-C68281358378}.wem"
+     },
+     {
+      "Id": "990500682",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "OBJ_Campfire_Crack_06.wav",
+      "CachePath": "F0/{F04C711A-0B73-91BB-4EA2-F1556D8558F4}.wem"
+     },
+     {
+      "Id": "1054077881",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "OBJ_Campfire_Sizzle_02.wav",
+      "CachePath": "7A/{7A9E9C27-A81F-8C86-05F6-6344E5277974}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3974548175",
+      "Name": "Play_OBJ_Campfire",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_OBJ_Campfire",
+      "GUID": "{5CDACE9B-79B0-4306-B507-0649C79B1594}",
+      "MaxAttenuation": "1000",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "8452145"
+       },
+       {
+        "Id": "31428144"
+       },
+       {
+        "Id": "218165833"
+       },
+       {
+        "Id": "305473176"
+       },
+       {
+        "Id": "352087758"
+       },
+       {
+        "Id": "508739589"
+       },
+       {
+        "Id": "649495772"
+       },
+       {
+        "Id": "791273761"
+       },
+       {
+        "Id": "836192539"
+       },
+       {
+        "Id": "906446551"
+       },
+       {
+        "Id": "913671426"
+       },
+       {
+        "Id": "951040964"
+       },
+       {
+        "Id": "986340892"
+       },
+       {
+        "Id": "990500682"
+       },
+       {
+        "Id": "1054077881"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{E6FFF193-769C-C2C3-1D46-CD5D4079319A}"
+ }
+}

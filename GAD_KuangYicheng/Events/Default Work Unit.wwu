@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{DB37DD87-9230-4A27-B1CA-054BB32554B7}" SchemaVersion="123">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{DB37DD87-9230-4A27-B1CA-054BB32554B7}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play_OBJ_Campfire" ID="{5CDACE9B-79B0-4306-B507-0649C79B1594}">
+					<ChildrenList>
+						<Action Name="" ID="{257B9C7D-3D90-4B39-B586-15B349E19B2C}" ShortID="699206309">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="OBJ_Campfire" ID="{95EB7C13-9266-410D-83D6-F0DBEC3636A6}" WorkUnitID="{855967C0-4AE5-4989-B2D7-15459943B511}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_AMB_2D_EXT_GEN" ID="{2CB5C31E-F65F-49FC-9560-88A71605E693}">
+					<ChildrenList>
+						<Action Name="" ID="{1F9ED19E-EAEF-49CA-BC24-A9A9FED9F70A}" ShortID="179442903">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="AMB_2D_EXT_GEN" ID="{C5EFA86C-C7E2-4EF6-AA31-066F84B7C83D}" WorkUnitID="{6E4EA42F-8C11-422B-9A39-E5A24014B1E7}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

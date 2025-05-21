@@ -1,0 +1,29 @@
+{
+ "ProjectInfo": {
+  "Project": {
+   "Name": "GAD_KuangYicheng",
+   "GUID": "{5E3A8189-D6F5-4369-9A1E-A55002DFE887}",
+   "Generator": "2024.1.4.8780"
+  },
+  "CacheRoot": "../.cache",
+  "Platforms": [
+   {
+    "Name": "Windows",
+    "GUID": "{FA314E70-32D5-4699-A420-E3E05170E70C}",
+    "BasePlatform": "Windows",
+    "BasePlatformGUID": "{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}",
+    "Path": "Windows"
+   }
+  ],
+  "Languages": [
+   {
+    "Name": "English(US)",
+    "Id": "684519430",
+    "GUID": "{4EDE9944-2BCA-41BC-9615-E84D83EE529C}",
+    "Default": "true",
+    "UseAsStandIn": "true"
+   }
+  ],
+  "FileHash": "{5521C045-2E4A-5C37-14A3-335A1454718D}"
+ }
+}

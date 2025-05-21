@@ -1,0 +1,20 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3974548175	Play_OBJ_Campfire			\Default Work Unit\Play_OBJ_Campfire	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	8452145	OBJ_Campfire_Sizzle_03	E:\SHU_GAD_KuangYicheng\GAD_KuangYicheng\.cache\4B\{4B8A6624-3DCC-4181-C542-08AC2A5DFA6D}.wem		\Actor-Mixer Hierarchy\Default Work Unit\OBJ_Campfire\OBJ_Campfire_Sizzle\OBJ_Campfire_Sizzle_03		710496
+	31428144	OBJ_Campfire_Crack_05	E:\SHU_GAD_KuangYicheng\GAD_KuangYicheng\.cache\C3\{C3A834A4-727F-E56E-B993-F5D942AFE0D4}.wem		\Actor-Mixer Hierarchy\Default Work Unit\OBJ_Campfire\OBJ_Campfire_Crack\OBJ_Campfire_Crack_05		566496
+	218165833	OBJ_Campfire_Crack_07	E:\SHU_GAD_KuangYicheng\GAD_KuangYicheng\.cache\11\{1176D396-93BE-45EF-A969-5ABA246DF5AB}.wem		\Actor-Mixer Hierarchy\Default Work Unit\OBJ_Campfire\OBJ_Campfire_Crack\OBJ_Campfire_Crack_07		675296
+	305473176	OBJ_Campfire_Sizzle_06	E:\SHU_GAD_KuangYicheng\GAD_KuangYicheng\.cache\4F\{4F7112C5-7D72-7610-E470-B9DE0B929836}.wem		\Actor-Mixer Hierarchy\Default Work Unit\OBJ_Campfire\OBJ_Campfire_Sizzle\OBJ_Campfire_Sizzle_06		707296
+	352087758	OBJ_Campfire_Crack_01	E:\SHU_GAD_KuangYicheng\GAD_KuangYicheng\.cache\BE\{BE1DFB89-A5D2-AE14-33CE-AB6534A2D4B9}.wem		\Actor-Mixer Hierarchy\Default Work Unit\OBJ_Campfire\OBJ_Campfire_Crack\OBJ_Campfire_Crack_01		521696
+	508739589	OBJ_Campfire_Crack_04	E:\SHU_GAD_KuangYicheng\GAD_KuangYicheng\.cache\8F\{8F279E8A-E49B-397A-E3F9-DDBAC4879C06}.wem		\Actor-Mixer Hierarchy\Default Work Unit\OBJ_Campfire\OBJ_Campfire_Crack\OBJ_Campfire_Crack_04		553696
+	649495772	OBJ_Campfire_Sizzle_07	E:\SHU_GAD_KuangYicheng\GAD_KuangYicheng\.cache\C0\{C000B5F0-5DD9-BFEA-2924-5F851BD0653C}.wem		\Actor-Mixer Hierarchy\Default Work Unit\OBJ_Campfire\OBJ_Campfire_Sizzle\OBJ_Campfire_Sizzle_07		668896
+	791273761	OBJ_Campfire_Sizzle_04	E:\SHU_GAD_KuangYicheng\GAD_KuangYicheng\.cache\C3\{C3955E87-239A-C6C6-5CB1-C36A2077EFB9}.wem		\Actor-Mixer Hierarchy\Default Work Unit\OBJ_Campfire\OBJ_Campfire_Sizzle\OBJ_Campfire_Sizzle_04		931296
+	836192539	OBJ_Campfire_Burn_Loop	E:\SHU_GAD_KuangYicheng\GAD_KuangYicheng\.cache\4B\{4B0CB4F8-49FD-3E05-A918-0E36BBE15399}.wem		\Actor-Mixer Hierarchy\Default Work Unit\OBJ_Campfire\OBJ_Campfire_Burn_Loop		5760096
+	906446551	OBJ_Campfire_Crack_02	E:\SHU_GAD_KuangYicheng\GAD_KuangYicheng\.cache\AC\{ACA8D0E3-CFF9-924F-1DD8-B145370F9801}.wem		\Actor-Mixer Hierarchy\Default Work Unit\OBJ_Campfire\OBJ_Campfire_Crack\OBJ_Campfire_Crack_02		675296
+	913671426	OBJ_Campfire_Sizzle_05	E:\SHU_GAD_KuangYicheng\GAD_KuangYicheng\.cache\98\{9858C932-AEB5-652B-8A67-DBCE5DAB1074}.wem		\Actor-Mixer Hierarchy\Default Work Unit\OBJ_Campfire\OBJ_Campfire_Sizzle\OBJ_Campfire_Sizzle_05		854496
+	951040964	OBJ_Campfire_Crack_03	E:\SHU_GAD_KuangYicheng\GAD_KuangYicheng\.cache\A0\{A04EDBB0-15D8-984F-9601-4CB6D8C7BE1C}.wem		\Actor-Mixer Hierarchy\Default Work Unit\OBJ_Campfire\OBJ_Campfire_Crack\OBJ_Campfire_Crack_03		508896
+	986340892	OBJ_Campfire_Sizzle_01	E:\SHU_GAD_KuangYicheng\GAD_KuangYicheng\.cache\1C\{1C3FCA0F-DEEA-0724-6C7C-C68281358378}.wem		\Actor-Mixer Hierarchy\Default Work Unit\OBJ_Campfire\OBJ_Campfire_Sizzle\OBJ_Campfire_Sizzle_01		662496
+	990500682	OBJ_Campfire_Crack_06	E:\SHU_GAD_KuangYicheng\GAD_KuangYicheng\.cache\F0\{F04C711A-0B73-91BB-4EA2-F1556D8558F4}.wem		\Actor-Mixer Hierarchy\Default Work Unit\OBJ_Campfire\OBJ_Campfire_Crack\OBJ_Campfire_Crack_06		848096
+	1054077881	OBJ_Campfire_Sizzle_02	E:\SHU_GAD_KuangYicheng\GAD_KuangYicheng\.cache\7A\{7A9E9C27-A81F-8C86-05F6-6344E5277974}.wem		\Actor-Mixer Hierarchy\Default Work Unit\OBJ_Campfire\OBJ_Campfire_Sizzle\OBJ_Campfire_Sizzle_02		787296
+
