@@ -1,0 +1,46 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2099563524",
+    "Type": "Event",
+    "GUID": "{BDED30EE-AF28-4881-9039-75B8A3F42C10}",
+    "Language": "English(US)",
+    "Hash": "{A1C51C5A-E55E-C260-4E59-6CA416D4A613}",
+    "ObjectPath": "Play_VO_Female_WwiseSpatialAudio_P1",
+    "ShortName": "Play_VO_Female_WwiseSpatialAudio_P1",
+    "Path": "Event/English(US)/Play_VO_Female_WwiseSpatialAudio_P1.bnk",
+    "Media": [
+     {
+      "Id": "730601673",
+      "Language": "English(US)",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "VO_Female_WwiseSpatialAudio_P1.wav",
+      "Path": "Media/English(US)/730601673.wem",
+      "CachePath": "EA/{EA591479-A460-DA6D-B311-B701FA565719}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2099563524",
+      "Name": "Play_VO_Female_WwiseSpatialAudio_P1",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_VO_Female_WwiseSpatialAudio_P1",
+      "GUID": "{BDED30EE-AF28-4881-9039-75B8A3F42C10}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "730601673"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{CD997697-3698-C984-1648-2A80AE6D5D57}"
+ }
+}

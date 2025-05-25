@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{0B015B62-BA88-4C03-B6CB-111FC2C0017D}" SchemaVersion="123">
+	<AudioObjects>
+		<WorkUnit Name="Voice" ID="{0B015B62-BA88-4C03-B6CB-111FC2C0017D}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="VO_Female_WwiseSpatialAudio_P1" ID="{A1826A33-7E85-400C-8F79-6598F5876E5C}" ShortID="798944251">
+					<PropertyList>
+						<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+						<Property Name="IsVoice" Type="bool" Value="True"/>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{E2EBD88D-A8A9-481A-872E-4859E18513FD}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{59CAE700-90FA-4247-96F4-0B2721893844}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="VO_Female_WwiseSpatialAudio_P1" ID="{D3F748AF-F52E-4A20-8A83-98E0FFEA9AB8}">
+							<Language>English(US)</Language>
+							<AudioFile>VO_Female_WwiseSpatialAudio_P1.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="730601673"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="VO_Female_WwiseSpatialAudio_P1" ID="{D3F748AF-F52E-4A20-8A83-98E0FFEA9AB8}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

@@ -25,6 +25,28 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Play_Foley_FS_Run" ID="{F77699EE-EE40-4483-BEB0-C8C565C7D005}">
+					<ChildrenList>
+						<Action Name="" ID="{C9ACE14B-9168-4003-A568-18DC13436442}" ShortID="553239075">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Foley_FS_Run" ID="{000E6623-16D6-4D41-86E8-190F01E97623}" WorkUnitID="{74478CE2-2E4D-499C-944A-B9ECED893F2D}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_VO_Female_WwiseSpatialAudio_P1" ID="{BDED30EE-AF28-4881-9039-75B8A3F42C10}">
+					<ChildrenList>
+						<Action Name="" ID="{7E7BDB8C-70BF-49E0-8929-4D396E188438}" ShortID="348274847">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="VO_Female_WwiseSpatialAudio_P1" ID="{A1826A33-7E85-400C-8F79-6598F5876E5C}" WorkUnitID="{0B015B62-BA88-4C03-B6CB-111FC2C0017D}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>
